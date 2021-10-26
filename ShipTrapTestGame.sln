@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipTrapTestGame", "ShipTrapTestGame\ShipTrapTestGame.csproj", "{639CC920-8A71-4AFB-92E7-82AFDCE65903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{639CC920-8A71-4AFB-92E7-82AFDCE65903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639CC920-8A71-4AFB-92E7-82AFDCE65903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639CC920-8A71-4AFB-92E7-82AFDCE65903}.Debug|x86.ActiveCfg = Debug|x86
+		{639CC920-8A71-4AFB-92E7-82AFDCE65903}.Debug|x86.Build.0 = Debug|x86
+		{639CC920-8A71-4AFB-92E7-82AFDCE65903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639CC920-8A71-4AFB-92E7-82AFDCE65903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{639CC920-8A71-4AFB-92E7-82AFDCE65903}.Release|x86.ActiveCfg = Release|x86
+		{639CC920-8A71-4AFB-92E7-82AFDCE65903}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE09495C-5496-4257-BACA-CD903794568E}
+	EndGlobalSection
+EndGlobal
